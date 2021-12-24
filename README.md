@@ -1,5 +1,8 @@
 # Stat-Notes
 
+- To install jupyter notebooks: pip install jupyter or pip3 install jupyter.
+- To add R to Jupyter notebooks: https://stackoverflow.com/questions/44056164/jupyter-client-has-to-be-installed-but-jupyter-kernelspec-version-exited-wit.
+
 ## Overview
 The repository is intended to serve as a collection of notes on fundamental statistical and mathematical concepts for later use in applications/the job or teaching. I personally think notes should follow the following structure:
 
