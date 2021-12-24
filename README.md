@@ -1,6 +1,6 @@
 # Stat-Notes
 
-- To install jupyter notebooks: pip install jupyter or pip3 install jupyter.
+- To install jupyter notebooks: ```pip install jupyter``` or ```pip3 install jupyter```.
 - To add R to Jupyter notebooks: https://stackoverflow.com/questions/44056164/jupyter-client-has-to-be-installed-but-jupyter-kernelspec-version-exited-wit.
 
 ## Overview
