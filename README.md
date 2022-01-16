@@ -17,7 +17,6 @@ The repository is intended to serve as a collection of notes on fundamental stat
 - Dimension Reduction & Clustering.ipynb: needs more notes, problems worked out, and code examples
 - Exponential Families and Sufficient Statistics.ipynb: notes done, needs some problems worked out
 - Intro to Matrix Analysis.ipynb: Almost done with exercises for first four chapters, notes not needed as there are great sources/books on these topics
-- Job Recruiting.ipynb: continually updated
 - Law of Large Numbers (Bernoulli).ipynb: finished
 - MGF.ipynb: not much more notes needed - maybe some more rigorous theory on mgf relation to power series and problems worked out
 - Numerical Linear Algebra.ipnyb: I plan on doing this semester w/ 227c
