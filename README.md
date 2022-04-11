@@ -24,3 +24,5 @@ The repository is intended to serve as a collection of notes on fundamental stat
 - algebras-and-measures.pdf: I do not plan on adding to this unless people are interested
 - bayesian statistics.ipynb: More examples and include applications - gibbs sampling, bayesian neural nets
 - linear models.ipynb: More problems and examples to follow the course this semester 230
+
+You never expect things to come to you in this life, you just do the best you can with the hand you're dealt and just go from there - Scottie Scheffler
