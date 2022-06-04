@@ -13,16 +13,5 @@ The repository is intended to serve as a collection of notes on fundamental stat
   
 ## Status of Notebooks
 
-- Deep Learning.ipynb: not started, but good resources appended to other notebooks (will work out w/ 288)
-- Dimension Reduction & Clustering.ipynb: needs more notes, problems worked out, and code examples
-- Exponential Families and Sufficient Statistics.ipynb: notes done, needs more problems worked out
-- Intro to Matrix Analysis.ipynb: ch4 exercises and differential equations notes needed
-- Law of Large Numbers (Bernoulli).ipynb: finished
-- MGF.ipynb: not much more notes needed - problems worked out
-- Optimization.ipynb: I plan on doing this semester w/ 227c (nesterov notes + (vishnoi + others) for problems)
-- Time Series Filtering.ipynb: Basics of time series definition wise are included, more theoretical problems needed, finish the filtering application w/ 248
-- algebras-and-measures.pdf: I do not plan on adding to this unless people are interested
-- bayesian statistics.ipynb: More examples and include applications - gibbs sampling, bayesian neural nets
-- linear models.ipynb: More problems and examples to follow the course this semester 230
-
-You never expect things to come to you in this life, you just do the best you can with the hand you're dealt and just go from there - Scottie Scheffler
+Notebooks in WIP are not finished - i.e. these are missing thorough exposition, lucid examples, and problems to work through. There are several notebooks that are not subsets of statistics but rather pillars from other areas of STEM - primarily mathematics that form a basis for topics in modern statistics. Some notebooks in WIP may not be finished due to me losing interest in the topic/time drain - time-series is one example where current literature is lackluster and I do not buy into its
+forecasting capabilities to be honest. 
